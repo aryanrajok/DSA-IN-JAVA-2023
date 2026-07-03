@@ -8,6 +8,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0015-3sum) |
+| [0953-verifying-an-alien-dictionary](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0953-verifying-an-alien-dictionary) |
 ## Two Pointers
 |  |
 | ------- |
@@ -24,4 +25,12 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0004-median-of-two-sorted-arrays) |
+## Hash Table
+|  |
+| ------- |
+| [0953-verifying-an-alien-dictionary](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0953-verifying-an-alien-dictionary) |
+## String
+|  |
+| ------- |
+| [0953-verifying-an-alien-dictionary](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0953-verifying-an-alien-dictionary) |
 <!---LeetCode Topics End-->
