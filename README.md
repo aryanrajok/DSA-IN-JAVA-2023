@@ -9,16 +9,19 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0004-median-of-two-sorted-arrays](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0015-3sum) |
 | [0953-verifying-an-alien-dictionary](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0953-verifying-an-alien-dictionary) |
+| [0977-squares-of-a-sorted-array](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0015-3sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
