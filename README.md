@@ -28,6 +28,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0015-3sum](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0015-3sum) |
 | [0274-h-index](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0274-h-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0977-squares-of-a-sorted-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -48,6 +49,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0125-valid-palindrome](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0344-reverse-string) |
 | [0953-verifying-an-alien-dictionary](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0953-verifying-an-alien-dictionary) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Math
 |  |
 | ------- |
@@ -73,4 +75,5 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 |  |
 | ------- |
 | [0274-h-index](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0274-h-index) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
