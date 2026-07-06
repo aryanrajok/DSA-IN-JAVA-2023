@@ -10,6 +10,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0011-container-with-most-water](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0015-3sum) |
 | [0274-h-index](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0274-h-index) |
+| [0321-create-maximum-number](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0321-create-maximum-number) |
 | [0643-maximum-average-subarray-i](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0643-maximum-average-subarray-i) |
 | [0819-most-common-word](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0819-most-common-word) |
 | [0952-largest-component-size-by-common-factor](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0952-largest-component-size-by-common-factor) |
@@ -26,6 +27,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0011-container-with-most-water](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0125-valid-palindrome) |
+| [0321-create-maximum-number](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0321-create-maximum-number) |
 | [0344-reverse-string](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -71,6 +73,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0011-container-with-most-water) |
+| [0321-create-maximum-number](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0321-create-maximum-number) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 ## Dynamic Programming
 |  |
@@ -107,4 +110,12 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0643-maximum-average-subarray-i) |
+## Stack
+|  |
+| ------- |
+| [0321-create-maximum-number](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0321-create-maximum-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0321-create-maximum-number](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0321-create-maximum-number) |
 <!---LeetCode Topics End-->
