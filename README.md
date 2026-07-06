@@ -10,6 +10,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0011-container-with-most-water](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0015-3sum) |
 | [0274-h-index](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0274-h-index) |
+| [0643-maximum-average-subarray-i](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0643-maximum-average-subarray-i) |
 | [0819-most-common-word](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0819-most-common-word) |
 | [0952-largest-component-size-by-common-factor](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0952-largest-component-size-by-common-factor) |
 | [0953-verifying-an-alien-dictionary](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0953-verifying-an-alien-dictionary) |
@@ -102,4 +103,8 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 |  |
 | ------- |
 | [1923-longest-common-subpath](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1923-longest-common-subpath) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
