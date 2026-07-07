@@ -15,6 +15,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0587-erect-the-fence](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0587-erect-the-fence) |
 | [0643-maximum-average-subarray-i](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0643-maximum-average-subarray-i) |
+| [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0810-chalkboard-xor-game](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0810-chalkboard-xor-game) |
 | [0819-most-common-word](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0819-most-common-word) |
 | [0952-largest-component-size-by-common-factor](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0952-largest-component-size-by-common-factor) |
@@ -92,6 +93,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | ------- |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0629-k-inverse-pairs-array](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0629-k-inverse-pairs-array) |
+| [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [1223-dice-roll-simulation](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1223-dice-roll-simulation) |
 ## Union-Find
