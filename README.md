@@ -20,6 +20,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0952-largest-component-size-by-common-factor](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0952-largest-component-size-by-common-factor) |
 | [0953-verifying-an-alien-dictionary](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0953-verifying-an-alien-dictionary) |
 | [0977-squares-of-a-sorted-array](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0977-squares-of-a-sorted-array) |
+| [1036-escape-a-large-maze](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1036-escape-a-large-maze) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1223-dice-roll-simulation](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1223-dice-roll-simulation) |
 | [1224-maximum-equal-frequency](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1224-maximum-equal-frequency) |
@@ -60,6 +61,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0952-largest-component-size-by-common-factor](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0952-largest-component-size-by-common-factor) |
 | [0953-verifying-an-alien-dictionary](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0953-verifying-an-alien-dictionary) |
+| [1036-escape-a-large-maze](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1036-escape-a-large-maze) |
 | [1224-maximum-equal-frequency](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1224-maximum-equal-frequency) |
 | [1366-rank-teams-by-votes](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1366-rank-teams-by-votes) |
 ## String
@@ -160,8 +162,13 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 |  |
 | ------- |
 | [0652-find-duplicate-subtrees](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0652-find-duplicate-subtrees) |
+| [1036-escape-a-large-maze](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1036-escape-a-large-maze) |
 ## Binary Tree
 |  |
 | ------- |
 | [0652-find-duplicate-subtrees](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0652-find-duplicate-subtrees) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1036-escape-a-large-maze](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1036-escape-a-large-maze) |
 <!---LeetCode Topics End-->
