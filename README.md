@@ -9,6 +9,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0004-median-of-two-sorted-arrays](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0015-3sum) |
+| [0209-minimum-size-subarray-sum](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0209-minimum-size-subarray-sum) |
 | [0274-h-index](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0274-h-index) |
 | [0321-create-maximum-number](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0321-create-maximum-number) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0446-arithmetic-slices-ii-subsequence) |
@@ -45,6 +46,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0004-median-of-two-sorted-arrays) |
+| [0209-minimum-size-subarray-sum](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0209-minimum-size-subarray-sum) |
 | [1923-longest-common-subpath](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1923-longest-common-subpath) |
 ## Divide and Conquer
 |  |
@@ -115,6 +117,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0643-maximum-average-subarray-i) |
 ## Stack
 |  |
@@ -140,4 +143,8 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 |  |
 | ------- |
 | [0810-chalkboard-xor-game](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0810-chalkboard-xor-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
