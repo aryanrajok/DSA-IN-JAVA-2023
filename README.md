@@ -86,6 +86,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 |  |
 | ------- |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0629-k-inverse-pairs-array](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0629-k-inverse-pairs-array) |
 | [1223-dice-roll-simulation](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1223-dice-roll-simulation) |
 ## Union-Find
 |  |
