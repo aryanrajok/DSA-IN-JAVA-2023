@@ -33,6 +33,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0011-container-with-most-water](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0141-linked-list-cycle) |
 | [0321-create-maximum-number](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0321-create-maximum-number) |
 | [0344-reverse-string](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0977-squares-of-a-sorted-array) |
@@ -58,6 +59,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0141-linked-list-cycle](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0141-linked-list-cycle) |
 | [0652-find-duplicate-subtrees](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0652-find-duplicate-subtrees) |
 | [0819-most-common-word](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0819-most-common-word) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
@@ -182,4 +184,8 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 |  |
 | ------- |
 | [0458-poor-pigs](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0458-poor-pigs) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
