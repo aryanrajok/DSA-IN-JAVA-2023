@@ -36,6 +36,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0141-linked-list-cycle](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0141-linked-list-cycle) |
 | [0321-create-maximum-number](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0321-create-maximum-number) |
 | [0344-reverse-string](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -188,4 +189,5 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
