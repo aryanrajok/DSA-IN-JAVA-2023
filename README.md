@@ -92,6 +92,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 |  |
 | ------- |
 | [0458-poor-pigs](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0458-poor-pigs) |
+| [0479-largest-palindrome-product](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0479-largest-palindrome-product) |
 | [0587-erect-the-fence](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0587-erect-the-fence) |
 | [0810-chalkboard-xor-game](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0810-chalkboard-xor-game) |
 | [0891-sum-of-subsequence-widths](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0891-sum-of-subsequence-widths) |
@@ -214,4 +215,8 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0234-palindrome-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [0479-largest-palindrome-product](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0479-largest-palindrome-product) |
 <!---LeetCode Topics End-->
