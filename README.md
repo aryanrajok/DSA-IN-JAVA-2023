@@ -42,6 +42,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0344-reverse-string](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0977-squares-of-a-sorted-array) |
+| [1163-last-substring-in-lexicographical-order](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1163-last-substring-in-lexicographical-order) |
 ## Sorting
 |  |
 | ------- |
@@ -84,6 +85,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0819-most-common-word](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0819-most-common-word) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0953-verifying-an-alien-dictionary](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0953-verifying-an-alien-dictionary) |
+| [1163-last-substring-in-lexicographical-order](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1163-last-substring-in-lexicographical-order) |
 | [1366-rank-teams-by-votes](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1366-rank-teams-by-votes) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Math
