@@ -9,6 +9,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0004-median-of-two-sorted-arrays](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0015-3sum) |
+| [0035-search-insert-position](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0209-minimum-size-subarray-sum) |
 | [0274-h-index](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0274-h-index) |
 | [0321-create-maximum-number](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0321-create-maximum-number) |
@@ -57,6 +58,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0704-binary-search) |
 | [1923-longest-common-subpath](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1923-longest-common-subpath) |
