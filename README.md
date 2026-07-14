@@ -194,19 +194,23 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0652-find-duplicate-subtrees) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0652-find-duplicate-subtrees) |
 | [1036-escape-a-large-maze](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1036-escape-a-large-maze) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0652-find-duplicate-subtrees) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1036-escape-a-large-maze](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1036-escape-a-large-maze) |
 | [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 ## Combinatorics
