@@ -195,6 +195,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 ## Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0652-find-duplicate-subtrees) |
 ## Depth-First Search
@@ -207,11 +208,13 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 ## Binary Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0652-find-duplicate-subtrees) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0733-flood-fill](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0733-flood-fill) |
 | [1036-escape-a-large-maze](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1036-escape-a-large-maze) |
