@@ -13,6 +13,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0035-search-insert-position](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0200-number-of-islands](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0209-minimum-size-subarray-sum) |
 | [0274-h-index](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0274-h-index) |
 | [0321-create-maximum-number](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0321-create-maximum-number) |
@@ -131,6 +132,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0200-number-of-islands) |
 | [0952-largest-component-size-by-common-factor](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0952-largest-component-size-by-common-factor) |
 ## Number Theory
 |  |
@@ -202,6 +204,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0200-number-of-islands) |
 | [0652-find-duplicate-subtrees](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0652-find-duplicate-subtrees) |
 | [0733-flood-fill](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0733-flood-fill) |
 | [1036-escape-a-large-maze](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1036-escape-a-large-maze) |
@@ -216,6 +219,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0733-flood-fill) |
 | [1036-escape-a-large-maze](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1036-escape-a-large-maze) |
 | [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
@@ -246,6 +250,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0733-flood-fill) |
 ## Heap (Priority Queue)
 |  |
