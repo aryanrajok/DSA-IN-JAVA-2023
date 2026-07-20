@@ -80,6 +80,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0127-word-ladder](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0142-linked-list-cycle-ii) |
@@ -96,6 +97,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0127-word-ladder) |
 | [0344-reverse-string](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0344-reverse-string) |
 | [0819-most-common-word](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0819-most-common-word) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
@@ -221,6 +223,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0733-flood-fill) |
