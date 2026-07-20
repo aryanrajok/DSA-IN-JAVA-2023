@@ -4,23 +4,20 @@ class Solution {
         int right = s.length() - 1;
 
         while (left < right) {
-            char leftChar = s.charAt(left);
-            char rightChar = s.charAt(right);
+            char leftChar = Character.toLowerCase(s.charAt(left));
+            char rightChar = Character.toLowerCase(s.charAt(right));
 
-            // Skip non-alphanumeric characters from the left
             if (!Character.isLetterOrDigit(leftChar)) {
                 left++;
                 continue;
             }
 
-            // Skip non-alphanumeric characters from the right
             if (!Character.isLetterOrDigit(rightChar)) {
                 right--;
                 continue;
             }
 
-            // Compare characters, ignoring case
-            if (Character.toLowerCase(leftChar) != Character.toLowerCase(rightChar)) {
+            if (leftChar != rightChar) {
                 return false;
             }
 
