@@ -37,6 +37,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [1366-rank-teams-by-votes](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1366-rank-teams-by-votes) |
 | [1923-longest-common-subpath](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1923-longest-common-subpath) |
 | [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,6 +73,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0209-minimum-size-subarray-sum](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0704-binary-search) |
 | [1923-longest-common-subpath](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1923-longest-common-subpath) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -105,6 +107,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [1163-last-substring-in-lexicographical-order](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1163-last-substring-in-lexicographical-order) |
 | [1366-rank-teams-by-votes](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1366-rank-teams-by-votes) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Math
 |  |
@@ -268,4 +271,8 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0133-clone-graph) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
