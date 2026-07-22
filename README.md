@@ -38,6 +38,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [1923-longest-common-subpath](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1923-longest-common-subpath) |
 | [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,6 +53,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0876-middle-of-the-linked-list](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0977-squares-of-a-sorted-array) |
 | [1163-last-substring-in-lexicographical-order](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1163-last-substring-in-lexicographical-order) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -62,6 +64,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0977-squares-of-a-sorted-array](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0977-squares-of-a-sorted-array) |
 | [1366-rank-teams-by-votes](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1366-rank-teams-by-votes) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -120,6 +123,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0952-largest-component-size-by-common-factor](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0952-largest-component-size-by-common-factor) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -145,6 +149,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 |  |
 | ------- |
 | [0952-largest-component-size-by-common-factor](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0952-largest-component-size-by-common-factor) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
 |  |
 | ------- |
@@ -275,4 +280,8 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
