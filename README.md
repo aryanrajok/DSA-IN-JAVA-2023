@@ -34,6 +34,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1223-dice-roll-simulation](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1223-dice-roll-simulation) |
 | [1224-maximum-equal-frequency](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1224-maximum-equal-frequency) |
+| [1260-shift-2d-grid](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1260-shift-2d-grid) |
 | [1366-rank-teams-by-votes](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1366-rank-teams-by-votes) |
 | [1923-longest-common-subpath](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1923-longest-common-subpath) |
 | [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
@@ -274,6 +275,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0074-search-a-2d-matrix](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0733-flood-fill) |
+| [1260-shift-2d-grid](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1260-shift-2d-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -289,5 +291,6 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
