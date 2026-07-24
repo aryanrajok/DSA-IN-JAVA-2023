@@ -1,17 +1,31 @@
 class Solution {
     public boolean searchMatrix(int[][] matrix, int target) {
 
-        for (int i = 0; i < matrix.length; i++) {
 
-            for (int j = 0; j < matrix[i].length; j++) {
+        int m = matrix.length;
+        int n = matrix[0].length;
 
-                if (matrix[i][j] == target) {
-                    return true;
-                }
+        int left = 0;
+        int right = m*n-1;
 
+        while(left <= right){
+        int mid = left+(right-left)/2;
+
+        int raw = mid/n;
+        int col = mid%n; 
+            if (matrix[raw][col]== target){
+                return true;
+
+            } else if (matrix[raw][col] < target) {
+                left = mid +1 ;
+            }else {
+                 right = mid -1;
             }
+            
+        }
+         
+        return false;
         }
 
-        return false;
+       
     }
-}
