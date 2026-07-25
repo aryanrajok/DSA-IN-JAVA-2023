@@ -278,6 +278,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 |  |
 | ------- |
 | [0479-largest-palindrome-product](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0479-largest-palindrome-product) |
+| [1291-sequential-digits](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1291-sequential-digits) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Matrix
