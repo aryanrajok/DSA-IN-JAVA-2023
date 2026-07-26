@@ -230,11 +230,13 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0652-find-duplicate-subtrees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0200-number-of-islands) |
 | [0652-find-duplicate-subtrees](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0652-find-duplicate-subtrees) |
@@ -245,12 +247,14 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0652-find-duplicate-subtrees) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0200-number-of-islands) |
