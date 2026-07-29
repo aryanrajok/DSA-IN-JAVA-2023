@@ -104,6 +104,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [1036-escape-a-large-maze](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1036-escape-a-large-maze) |
 | [1224-maximum-equal-frequency](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1224-maximum-equal-frequency) |
 | [1366-rank-teams-by-votes](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1366-rank-teams-by-votes) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String
 |  |
 | ------- |
@@ -122,6 +123,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [3499-maximize-active-section-with-trade-i](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Math
 |  |
 | ------- |
@@ -136,6 +138,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -174,6 +177,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0819-most-common-word](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0819-most-common-word) |
 | [1366-rank-teams-by-votes](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1366-rank-teams-by-votes) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -272,6 +276,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 |  |
 | ------- |
 | [0458-poor-pigs](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0458-poor-pigs) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Linked List
 |  |
 | ------- |
