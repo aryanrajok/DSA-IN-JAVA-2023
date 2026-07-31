@@ -67,6 +67,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0891-sum-of-subsequence-widths](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0891-sum-of-subsequence-widths) |
 | [0977-squares-of-a-sorted-array](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0977-squares-of-a-sorted-array) |
 | [1366-rank-teams-by-votes](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1366-rank-teams-by-votes) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -104,6 +105,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [1036-escape-a-large-maze](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1036-escape-a-large-maze) |
 | [1224-maximum-equal-frequency](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1224-maximum-equal-frequency) |
 | [1366-rank-teams-by-votes](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1366-rank-teams-by-votes) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String
 |  |
@@ -121,6 +123,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [1163-last-substring-in-lexicographical-order](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1163-last-substring-in-lexicographical-order) |
 | [1366-rank-teams-by-votes](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1366-rank-teams-by-votes) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -152,6 +155,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -179,6 +183,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0299-bulls-and-cows](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0299-bulls-and-cows) |
 | [0819-most-common-word](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0819-most-common-word) |
 | [1366-rank-teams-by-votes](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1366-rank-teams-by-votes) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Rolling Hash
