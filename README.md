@@ -18,6 +18,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0274-h-index](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0274-h-index) |
 | [0321-create-maximum-number](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0321-create-maximum-number) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0486-predict-the-winner](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0486-predict-the-winner) |
 | [0587-erect-the-fence](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0587-erect-the-fence) |
 | [0643-maximum-average-subarray-i](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0704-binary-search) |
@@ -133,6 +134,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | ------- |
 | [0458-poor-pigs](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0458-poor-pigs) |
 | [0479-largest-palindrome-product](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0479-largest-palindrome-product) |
+| [0486-predict-the-winner](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0486-predict-the-winner) |
 | [0587-erect-the-fence](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0587-erect-the-fence) |
 | [0810-chalkboard-xor-game](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0810-chalkboard-xor-game) |
 | [0891-sum-of-subsequence-widths](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0891-sum-of-subsequence-widths) |
@@ -161,6 +163,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | ------- |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0458-poor-pigs](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0458-poor-pigs) |
+| [0486-predict-the-winner](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0486-predict-the-winner) |
 | [0629-k-inverse-pairs-array](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0629-k-inverse-pairs-array) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
@@ -234,6 +237,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0486-predict-the-winner) |
 | [0810-chalkboard-xor-game](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0810-chalkboard-xor-game) |
 | [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 ## Prefix Sum
@@ -300,6 +304,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0486-predict-the-winner) |
 ## Enumeration
 |  |
 | ------- |
