@@ -27,6 +27,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0810-chalkboard-xor-game](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0810-chalkboard-xor-game) |
 | [0819-most-common-word](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0819-most-common-word) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0877-stone-game](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0877-stone-game) |
 | [0891-sum-of-subsequence-widths](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0891-sum-of-subsequence-widths) |
 | [0952-largest-component-size-by-common-factor](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0952-largest-component-size-by-common-factor) |
 | [0953-verifying-an-alien-dictionary](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0953-verifying-an-alien-dictionary) |
@@ -137,6 +138,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0486-predict-the-winner](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0486-predict-the-winner) |
 | [0587-erect-the-fence](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0587-erect-the-fence) |
 | [0810-chalkboard-xor-game](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0810-chalkboard-xor-game) |
+| [0877-stone-game](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0877-stone-game) |
 | [0891-sum-of-subsequence-widths](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0891-sum-of-subsequence-widths) |
 | [0952-largest-component-size-by-common-factor](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0952-largest-component-size-by-common-factor) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -167,6 +169,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0629-k-inverse-pairs-array](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0629-k-inverse-pairs-array) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
+| [0877-stone-game](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0877-stone-game) |
 | [1223-dice-roll-simulation](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1223-dice-roll-simulation) |
 ## Union-Find
 |  |
@@ -239,6 +242,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | ------- |
 | [0486-predict-the-winner](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0486-predict-the-winner) |
 | [0810-chalkboard-xor-game](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0810-chalkboard-xor-game) |
+| [0877-stone-game](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0877-stone-game) |
 | [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 ## Prefix Sum
 |  |
