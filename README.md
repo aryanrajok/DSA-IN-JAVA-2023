@@ -267,6 +267,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0652-find-duplicate-subtrees](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0652-find-duplicate-subtrees) |
 | [0733-flood-fill](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0733-flood-fill) |
 | [1036-escape-a-large-maze](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1036-escape-a-large-maze) |
+| [3310-remove-methods-from-project](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -288,6 +289,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0733-flood-fill](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0733-flood-fill) |
 | [1036-escape-a-large-maze](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1036-escape-a-large-maze) |
 | [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
+| [3310-remove-methods-from-project](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3310-remove-methods-from-project) |
 ## Combinatorics
 |  |
 | ------- |
@@ -331,6 +333,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0133-clone-graph) |
+| [3310-remove-methods-from-project](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3310-remove-methods-from-project) |
 ## Segment Tree
 |  |
 | ------- |
