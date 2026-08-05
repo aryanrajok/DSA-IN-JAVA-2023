@@ -13,6 +13,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0035-search-insert-position](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0209-minimum-size-subarray-sum) |
 | [0274-h-index](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0274-h-index) |
@@ -53,6 +54,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0125-valid-palindrome](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0142-linked-list-cycle-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0234-palindrome-linked-list) |
 | [0321-create-maximum-number](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0321-create-maximum-number) |
 | [0344-reverse-string](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0344-reverse-string) |
@@ -81,6 +83,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0035-search-insert-position](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0704-binary-search) |
 | [1923-longest-common-subpath](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1923-longest-common-subpath) |
