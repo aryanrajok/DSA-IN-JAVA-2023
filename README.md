@@ -116,6 +116,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0127-word-ladder) |
 | [0299-bulls-and-cows](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0299-bulls-and-cows) |
@@ -222,6 +223,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0234-palindrome-linked-list) |
 | [0321-create-maximum-number](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0321-create-maximum-number) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -356,4 +358,8 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
