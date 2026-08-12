@@ -28,6 +28,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0810-chalkboard-xor-game](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0810-chalkboard-xor-game) |
 | [0819-most-common-word](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0819-most-common-word) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0875-koko-eating-bananas](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0877-stone-game) |
 | [0891-sum-of-subsequence-widths](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0891-sum-of-subsequence-widths) |
 | [0952-largest-component-size-by-common-factor](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0952-largest-component-size-by-common-factor) |
@@ -91,6 +92,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0875-koko-eating-bananas) |
 | [1923-longest-common-subpath](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1923-longest-common-subpath) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Divide and Conquer
