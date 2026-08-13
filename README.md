@@ -43,6 +43,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [1366-rank-teams-by-votes](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1366-rank-teams-by-votes) |
 | [1923-longest-common-subpath](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1923-longest-common-subpath) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
@@ -137,6 +138,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1163-last-substring-in-lexicographical-order](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1163-last-substring-in-lexicographical-order) |
 | [1366-rank-teams-by-votes](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1366-rank-teams-by-votes) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -371,6 +373,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Simulation
 |  |
@@ -407,4 +410,8 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0543-diameter-of-binary-tree) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
