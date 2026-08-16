@@ -43,6 +43,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [1366-rank-teams-by-votes](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1366-rank-teams-by-votes) |
 | [1923-longest-common-subpath](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1923-longest-common-subpath) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -165,6 +166,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1510-stone-game-iv](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -182,6 +184,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [2029-stone-game-ix](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -219,6 +222,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0299-bulls-and-cows](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0299-bulls-and-cows) |
 | [0819-most-common-word](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0819-most-common-word) |
 | [1366-rank-teams-by-votes](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1366-rank-teams-by-votes) |
+| [2029-stone-game-ix](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -279,6 +283,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0877-stone-game](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2029-stone-game-ix) |
 | [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 ## Prefix Sum
 |  |
@@ -398,15 +403,18 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | ------- |
 | [1140-stone-game-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
