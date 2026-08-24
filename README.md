@@ -43,6 +43,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [1366-rank-teams-by-votes](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1366-rank-teams-by-votes) |
 | [1386-cinema-seat-allocation](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1872-stone-game-viii) |
 | [1923-longest-common-subpath](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1923-longest-common-subpath) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2029-stone-game-ix) |
@@ -175,6 +176,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1510-stone-game-iv](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2029-stone-game-ix) |
@@ -218,6 +220,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [1223-dice-roll-simulation](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1223-dice-roll-simulation) |
 | [1510-stone-game-iv](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Union-Find
 |  |
@@ -303,6 +306,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [1140-stone-game-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2029-stone-game-ix) |
 | [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
@@ -311,6 +315,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0209-minimum-size-subarray-sum) |
 | [1140-stone-game-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1872-stone-game-viii) |
 ## Tree
 |  |
 | ------- |
@@ -426,12 +431,14 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | ------- |
 | [1140-stone-game-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
