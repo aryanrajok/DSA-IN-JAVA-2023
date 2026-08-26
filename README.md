@@ -154,6 +154,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [1366-rank-teams-by-votes](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1366-rank-teams-by-votes) |
 | [1927-sum-game](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -267,6 +268,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0209-minimum-size-subarray-sum](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0643-maximum-average-subarray-i) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
