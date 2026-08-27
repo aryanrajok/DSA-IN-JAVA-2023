@@ -1,21 +1,30 @@
 class Solution {
     public int[] sortedSquares(int[] nums) {
+
         int n = nums.length;
         int[] result = new int[n];
-        int left = 0, right = n - 1;
-        int pos = n - 1; // fill from the back
+
+        int left = 0;
+        int right = n - 1;
+
+        int pos = n - 1;
 
         while (left <= right) {
-            int leftVal = Math.abs(nums[left]);
-            int rightVal = Math.abs(nums[right]);
 
-            if (leftVal > rightVal) {
-                result[pos] = leftVal * leftVal;
+            int leftsq = nums[left] * nums[left];
+            int rightsq = nums[right] * nums[right];
+
+            if (leftsq > rightsq) {
+
+                result[pos] = leftsq;
                 left++;
+
             } else {
-                result[pos] = rightVal * rightVal;
+
+                result[pos] = rightsq;
                 right--;
             }
+
             pos--;
         }
 
