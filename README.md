@@ -389,6 +389,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0142-linked-list-cycle-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0876-middle-of-the-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Bitmask
 |  |
 | ------- |
