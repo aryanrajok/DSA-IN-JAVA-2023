@@ -59,6 +59,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -139,6 +140,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
@@ -307,6 +309,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Brainteaser
 |  |
@@ -376,6 +379,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [1036-escape-a-large-maze](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1036-escape-a-large-maze) |
 | [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 | [3310-remove-methods-from-project](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Combinatorics
 |  |
 | ------- |
@@ -416,6 +420,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0200-number-of-islands](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0733-flood-fill) |
 | [1260-shift-2d-grid](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1260-shift-2d-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
