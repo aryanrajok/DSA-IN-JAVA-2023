@@ -152,6 +152,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0020-valid-parentheses) |
+| [0115-distinct-subsequences](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0127-word-ladder) |
 | [0299-bulls-and-cows](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0299-bulls-and-cows) |
@@ -229,6 +230,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0115-distinct-subsequences) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0458-poor-pigs](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0458-poor-pigs) |
 | [0486-predict-the-winner](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0486-predict-the-winner) |
