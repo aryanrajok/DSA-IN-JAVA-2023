@@ -160,6 +160,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0424-longest-repeating-character-replacement](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0424-longest-repeating-character-replacement) |
 | [0819-most-common-word](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0819-most-common-word) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
+| [0940-distinct-subsequences-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0940-distinct-subsequences-ii) |
 | [0953-verifying-an-alien-dictionary](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0953-verifying-an-alien-dictionary) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1163-last-substring-in-lexicographical-order](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1163-last-substring-in-lexicographical-order) |
@@ -238,6 +239,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0877-stone-game](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1140-stone-game-ii) |
 | [1223-dice-roll-simulation](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1223-dice-roll-simulation) |
 | [1510-stone-game-iv](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1510-stone-game-iv) |
