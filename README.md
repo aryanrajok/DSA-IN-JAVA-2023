@@ -357,6 +357,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0111-minimum-depth-of-binary-tree](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0543-diameter-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0652-find-duplicate-subtrees) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -369,6 +370,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0652-find-duplicate-subtrees](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0652-find-duplicate-subtrees) |
 | [0733-flood-fill](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0733-flood-fill) |
 | [1036-escape-a-large-maze](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1036-escape-a-large-maze) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -379,6 +381,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0111-minimum-depth-of-binary-tree](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0543-diameter-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0652-find-duplicate-subtrees) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
