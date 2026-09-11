@@ -56,6 +56,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -143,6 +144,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -420,12 +422,14 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
 | ------- |
 | [0479-largest-palindrome-product](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0479-largest-palindrome-product) |
 | [1291-sequential-digits](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
