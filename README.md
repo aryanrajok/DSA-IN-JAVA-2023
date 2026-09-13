@@ -27,6 +27,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0810-chalkboard-xor-game](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0810-chalkboard-xor-game) |
 | [0819-most-common-word](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0819-most-common-word) |
+| [0835-image-overlap](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0835-image-overlap) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0875-koko-eating-bananas](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0877-stone-game) |
@@ -440,6 +441,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0074-search-a-2d-matrix](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Heap (Priority Queue)
