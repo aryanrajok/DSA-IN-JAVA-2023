@@ -190,6 +190,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0486-predict-the-winner](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0486-predict-the-winner) |
 | [0587-erect-the-fence](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0587-erect-the-fence) |
 | [0810-chalkboard-xor-game](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0810-chalkboard-xor-game) |
+| [0836-rectangle-overlap](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0877-stone-game) |
 | [0891-sum-of-subsequence-widths](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0891-sum-of-subsequence-widths) |
 | [0952-largest-component-size-by-common-factor](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0952-largest-component-size-by-common-factor) |
@@ -315,6 +316,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 |  |
 | ------- |
 | [0587-erect-the-fence](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0587-erect-the-fence) |
+| [0836-rectangle-overlap](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0836-rectangle-overlap) |
 ## Bit Manipulation
 |  |
 | ------- |
