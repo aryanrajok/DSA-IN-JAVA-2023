@@ -43,6 +43,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [1260-shift-2d-grid](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1260-shift-2d-grid) |
 | [1366-rank-teams-by-votes](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1366-rank-teams-by-votes) |
 | [1386-cinema-seat-allocation](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1872-stone-game-viii) |
 | [1923-longest-common-subpath](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1923-longest-common-subpath) |
@@ -115,6 +116,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0209-minimum-size-subarray-sum](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0875-koko-eating-bananas) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1923-longest-common-subpath](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1923-longest-common-subpath) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -141,6 +143,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [1224-maximum-equal-frequency](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1224-maximum-equal-frequency) |
 | [1366-rank-teams-by-votes](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1366-rank-teams-by-votes) |
 | [1386-cinema-seat-allocation](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -252,6 +255,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0940-distinct-subsequences-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1140-stone-game-ii) |
 | [1223-dice-roll-simulation](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1223-dice-roll-simulation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -303,6 +307,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0209-minimum-size-subarray-sum](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0643-maximum-average-subarray-i) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3090-maximum-length-substring-with-two-occurrences) |
