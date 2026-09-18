@@ -98,6 +98,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0891-sum-of-subsequence-widths](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0891-sum-of-subsequence-widths) |
 | [0977-squares-of-a-sorted-array](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0977-squares-of-a-sorted-array) |
 | [1366-rank-teams-by-votes](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1366-rank-teams-by-votes) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -144,6 +145,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [1366-rank-teams-by-votes](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1366-rank-teams-by-votes) |
 | [1386-cinema-seat-allocation](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -172,6 +174,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1163-last-substring-in-lexicographical-order](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1163-last-substring-in-lexicographical-order) |
 | [1366-rank-teams-by-votes](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1366-rank-teams-by-votes) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -232,6 +235,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1386-cinema-seat-allocation](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2091-removing-minimum-and-maximum-from-array) |
