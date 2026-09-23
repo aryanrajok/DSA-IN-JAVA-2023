@@ -45,6 +45,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [1386-cinema-seat-allocation](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1563-stone-game-v) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1872-stone-game-viii) |
 | [1923-longest-common-subpath](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1923-longest-common-subpath) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -120,6 +121,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0704-binary-search](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0875-koko-eating-bananas) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1923-longest-common-subpath](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1923-longest-common-subpath) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -148,6 +150,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [1386-cinema-seat-allocation](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -319,6 +322,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0424-longest-repeating-character-replacement](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0643-maximum-average-subarray-i) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -374,6 +378,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0209-minimum-size-subarray-sum](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0209-minimum-size-subarray-sum) |
 | [1140-stone-game-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3904-smallest-stable-index-ii) |
