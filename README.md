@@ -100,6 +100,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0891-sum-of-subsequence-widths](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0891-sum-of-subsequence-widths) |
 | [0977-squares-of-a-sorted-array](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0977-squares-of-a-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1096-brace-expansion-ii) |
 | [1366-rank-teams-by-votes](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1366-rank-teams-by-votes) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -145,6 +146,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0952-largest-component-size-by-common-factor](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0952-largest-component-size-by-common-factor) |
 | [0953-verifying-an-alien-dictionary](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0953-verifying-an-alien-dictionary) |
 | [1036-escape-a-large-maze](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1036-escape-a-large-maze) |
+| [1096-brace-expansion-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1096-brace-expansion-ii) |
 | [1224-maximum-equal-frequency](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1224-maximum-equal-frequency) |
 | [1366-rank-teams-by-votes](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1366-rank-teams-by-votes) |
 | [1386-cinema-seat-allocation](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1386-cinema-seat-allocation) |
@@ -177,6 +179,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0940-distinct-subsequences-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0940-distinct-subsequences-ii) |
 | [0953-verifying-an-alien-dictionary](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0953-verifying-an-alien-dictionary) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1096-brace-expansion-ii) |
 | [1163-last-substring-in-lexicographical-order](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1163-last-substring-in-lexicographical-order) |
 | [1366-rank-teams-by-votes](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1366-rank-teams-by-votes) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -333,6 +336,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0234-palindrome-linked-list](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0234-palindrome-linked-list) |
 | [0321-create-maximum-number](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0321-create-maximum-number) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -428,6 +432,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0200-number-of-islands](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0733-flood-fill) |
 | [1036-escape-a-large-maze](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1036-escape-a-large-maze) |
+| [1096-brace-expansion-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1096-brace-expansion-ii) |
 | [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 | [3310-remove-methods-from-project](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -501,6 +506,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 ## Backtracking
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bracket Sequences
 |  |
