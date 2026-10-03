@@ -170,6 +170,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0127-word-ladder) |
@@ -264,6 +265,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0115-distinct-subsequences) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0458-poor-pigs](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0458-poor-pigs) |
@@ -337,6 +339,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0234-palindrome-linked-list) |
 | [0321-create-maximum-number](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0321-create-maximum-number) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -517,6 +520,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Minimax
 |  |
