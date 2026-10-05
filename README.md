@@ -179,6 +179,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0424-longest-repeating-character-replacement](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0424-longest-repeating-character-replacement) |
 | [0819-most-common-word](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0819-most-common-word) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
+| [0856-score-of-parentheses](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0940-distinct-subsequences-ii) |
 | [0953-verifying-an-alien-dictionary](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0953-verifying-an-alien-dictionary) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -342,6 +343,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0032-longest-valid-parentheses](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0234-palindrome-linked-list) |
 | [0321-create-maximum-number](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0321-create-maximum-number) |
+| [0856-score-of-parentheses](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -521,6 +523,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | ------- |
 | [0020-valid-parentheses](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Minimax
 |  |
