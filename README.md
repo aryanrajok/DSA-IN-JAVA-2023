@@ -175,6 +175,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0125-valid-palindrome](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0127-word-ladder) |
 | [0299-bulls-and-cows](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0299-bulls-and-cows) |
+| [0301-remove-invalid-parentheses](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0424-longest-repeating-character-replacement) |
 | [0819-most-common-word](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0819-most-common-word) |
@@ -440,6 +441,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0127-word-ladder](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0200-number-of-islands) |
+| [0301-remove-invalid-parentheses](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0301-remove-invalid-parentheses) |
 | [0733-flood-fill](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0733-flood-fill) |
 | [1036-escape-a-large-maze](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1036-escape-a-large-maze) |
 | [1096-brace-expansion-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1096-brace-expansion-ii) |
@@ -516,6 +518,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 ## Backtracking
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bracket Sequences
