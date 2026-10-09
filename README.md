@@ -189,6 +189,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1366-rank-teams-by-votes](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1366-rank-teams-by-votes) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -255,6 +256,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1386-cinema-seat-allocation](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -348,6 +350,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -528,6 +531,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0032-longest-valid-parentheses](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Minimax
 |  |
 | ------- |
