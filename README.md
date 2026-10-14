@@ -249,6 +249,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [3525-find-x-value-of-array-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3525-find-x-value-of-array-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3871-count-commas-in-range-ii) |
@@ -276,6 +277,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
 |  |
