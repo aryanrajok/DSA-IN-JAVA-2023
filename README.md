@@ -45,6 +45,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [1386-cinema-seat-allocation](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1872-stone-game-viii) |
@@ -142,6 +143,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0004-median-of-two-sorted-arrays) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Hash Table
 |  |
 | ------- |
@@ -239,6 +241,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [1401-circle-and-rectangle-overlapping](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1927-sum-game) |
@@ -304,6 +307,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -314,6 +318,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | ------- |
 | [0200-number-of-islands](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0200-number-of-islands) |
 | [0952-largest-component-size-by-common-factor](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0952-largest-component-size-by-common-factor) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Number Theory
 |  |
@@ -430,6 +435,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0111-minimum-depth-of-binary-tree](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0543-diameter-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0652-find-duplicate-subtrees) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -454,6 +460,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0111-minimum-depth-of-binary-tree](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0543-diameter-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0652-find-duplicate-subtrees) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -476,6 +483,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 |  |
 | ------- |
 | [0458-poor-pigs](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0458-poor-pigs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -593,4 +601,16 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
