@@ -17,6 +17,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0200-number-of-islands](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0209-minimum-size-subarray-sum) |
 | [0274-h-index](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0283-move-zeroes) |
 | [0321-create-maximum-number](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0321-create-maximum-number) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0486-predict-the-winner](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0486-predict-the-winner) |
@@ -92,6 +93,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0142-linked-list-cycle-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0283-move-zeroes) |
 | [0321-create-maximum-number](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0321-create-maximum-number) |
 | [0344-reverse-string](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0876-middle-of-the-linked-list) |
