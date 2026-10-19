@@ -53,6 +53,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [1923-longest-common-subpath](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1923-longest-common-subpath) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2029-stone-game-ix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -114,6 +115,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [1096-brace-expansion-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1096-brace-expansion-ii) |
 | [1366-rank-teams-by-votes](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1366-rank-teams-by-votes) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -138,6 +140,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1923-longest-common-subpath](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1923-longest-common-subpath) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3501-maximize-active-section-with-trade-ii) |
