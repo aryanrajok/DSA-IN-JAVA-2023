@@ -76,6 +76,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [3525-find-x-value-of-array-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3525-find-x-value-of-array-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -333,6 +334,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0952-largest-component-size-by-common-factor](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0952-largest-component-size-by-common-factor) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Number Theory
 |  |
 | ------- |
@@ -465,6 +467,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [1036-escape-a-large-maze](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1036-escape-a-large-maze) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -493,6 +496,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 | [3310-remove-methods-from-project](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Combinatorics
 |  |
 | ------- |
@@ -541,6 +545,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [0835-image-overlap](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
