@@ -84,6 +84,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3904-smallest-stable-index-ii) |
@@ -327,6 +328,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3524-find-x-value-of-array-i](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3524-find-x-value-of-array-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -415,6 +417,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Brainteaser
 |  |
 | ------- |
@@ -546,6 +549,7 @@ This repository is dedicated to my journey of learning Data Structures &amp; Alg
 | [1260-shift-2d-grid](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/aryanrajok/DSA-IN-JAVA-2023/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
